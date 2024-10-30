@@ -1,0 +1,27 @@
+,ID,Name,Address,Name of Colleges,Major,Degree,GPA,Semester,Y,Status,Name of Old_Colleges
+0,999,CK. Brown,Denver,Cyber College,Applied Sc,AS,4.0,Summer 1,89,I,Computer Communications
+1,961,QT. Brady,Pine Bluff,Cyber College,Computer Sc,AS,3.8,Summer 2,87,I,Computer Communications
+2,962,UL. Jones,Little Rock,Cyber College,Computer Sc,AS,3.1,Summer 2,84,O,Computer Communications
+3,970,Bf. Brady,Little Rock,Cyber College,Applied Sc,AS,3.2,Summer 1,92,O,Computer Communications
+4,975,CM. Cook,Little Rock,College of Art and Science,Biology,BS,2.2,Fall,87,O,College of Science
+5,412,DP. Morty,Atlanta,College of Art and Science,Biology,BA,3.9,Spring,84,O,College of Science
+6,971,UK. Yu,Conway,College of Education,Secondary Ed,MS,3.2,Fall,90,O,College of Education
+7,989,Li. Mooshe,Atlanta,College of Education,Secondary Ed,MS,3.9,Fall,90,N,College of Education
+8,998,Di. Morgan,Conway,College of Art and Science,Biology,MS,3.9,Spring,87,N,College of Science
+9,964,YH. Brady,Conway,Cyber College,Applied Sc,BA,3.2,Summer 1,87,N,Computer Communications
+10,977,WT. Brady,Conway,Cyber College,Applied Sc,BA,3.2,Summer 2,87,N,Computer Communications
+11,987,AC. Bank,Conway,Cyber College,Applied Sc,BA,3.2,Summer 2,87,N,Computer Communications
+12,988,TP. Kim,Conway,College of Education,Elementary Ed,BS,3.2,Summer 1,90,N,College of Education
+13,902,CY. Crema,Little Rock,College of Art and Science,Biology,BS,2.2,Spring,87,N,College of Science
+14,969,D. Abuly,Savannah,College of Business,Economics,BS,3.9,Spring,90,N,College of Business and IS
+15,968,G. Halky,Atlanta,College of Business,Business Admin,BS,2.9,Spring,90,N,College of Business and IS
+16,967,W.Goast,Savannah,College of Business,Accounting,BS,4.1,Fall,90,N,College of Business and IS
+17,833,T. Chenty,Conway,College of Education,Elementary Ed,AS,3.2,Summer 1,91,N,College of Education
+18,124,U. Algy,Denver,Cyber College,Applied Sc,AS,4.0,Spring,92,I,Computer Communications
+19,976,YI. Torgan,Conway,College of Art and Science,Biology,AS,3.9,Spring,87,I,College of Science
+20,100,D. Reddyg,Seattle,Cyber College,Information Sc,MS,2.1,Fall,90,I,Computer Communications
+21,969,Y. Bankrpt,Conway,Cyber College,Applied Sc,MS,3.2,Summer 1,87,O,Computer Communications
+22,901,UI. Wagon,Little Rock,Cyber College,Computer Sc,MS,3.1,Summer 1,84,O,Computer Communications
+23,902,C. Browner,Denver,Cyber College,Applied Sc,MS,4.0,Spring,89,O,Computer Communications
+24,777,F. Anglic,Atlanta,College of Art and Science,Biology,BS,3.9,Spring,90,N,College of Science
+25,779,BB. Goofan,Atlanta,College of Art and Science,Chemistry,BS,2.1,Fall,91,N,College of Science

@@ -1,0 +1,132 @@
+,ID,Name,Address,Name of Colleges,Major,Degree,GPA,Semester,Y,Status,Month Day,Name of Old_Colleges
+0,330,GG. Art,Savannah,College of Art and Science,English,BA,3.1,Summer 4,91,N,Aug 15,College of Science
+1,522,BB. Mercy,Savannah,College of Art and Science,English,MA,4.0,Summer 4,91,N,Aug 15,College of Science
+2,403,C. Brown,Denver,Cyber College,Applied Sc,PhD,4.0,Fall,89,I,Dec. 15,Computer Communications
+3,667,K. Chen,Conway,College of Education,Elementary Ed,EdD,3.2,Summer 4,92,O,Aug 15,College of Education
+4,529,M. Yu,Conway,College of Education,Secondary Ed,MS,3.2,Spring,90,I,May. 15,College of Education
+5,552,K. Ahmad,Atlanta,College of Education,Secondary Ed,EdD,3.9,Summer 2,87,O,July 4,College of Education
+6,687,Y. Morty,Atlanta,Cyber College,Computer Sc,BS,3.9,Summer 2,84,N,July 4,Computer Communications
+7,688,Y. Crema,Little Rock,College of Art and Science,Biology,AS,2.2,Summer 1,87,N,June 1,College of Science
+8,653,C. Alshukri,Denver,Cyber College,Applied Sc,PhD,4.0,Fall,91,O,Dec. 15,Computer Communications
+9,310,A. Jones,Little Rock,Cyber College,Computer Sc,BS,3.1,Spring,84,I,May. 15,Computer Communications
+10,986,Q. Brady,Pine Bluff,Cyber College,Computer Sc,MS,3.8,Spring,87,N,May. 15,Computer Communications
+11,579,U. Jones,Little Rock,Cyber College,Computer Sc,BS,3.1,Spring,84,N,May. 15,Computer Communications
+12,200,B. Brady,Little Rock,Cyber College,Applied Sc,PhD,3.2,Spring,92,I,May. 15,Computer Communications
+13,300,C. Cook,Little Rock,College of Art and Science,Biology,BS,2.2,Summer 1,87,I,June 1,College of Science
+14,160,D. Morty,Atlanta,College of Art and Science,Biology,BS,3.9,Summer 2,84,N,July 4,College of Science
+15,422,U. Yu,Conway,College of Education,Secondary Ed,MS,3.2,Spring,90,O,May. 15,College of Education
+16,423,U. Mooshe,Atlanta,College of Education,Secondary Ed,EdD,3.9,Summer 2,90,O,July 4,College of Education
+17,401,D. Morgan,Conway,College of Art and Science,Biology,BS,3.9,Summer 2,87,I,July 4,College of Science
+18,702,Y. Brady,Conway,Cyber College,Applied Sc,PhD,3.2,Spring,87,I,May. 15,Computer Communications
+19,523,W. Brady,Conway,Cyber College,Applied Sc,PhD,3.2,Spring,87,I,May. 15,Computer Communications
+20,202,A. Bank,Conway,Cyber College,Applied Sc,PhD,3.2,Summer 2,87,N,July 4,Computer Communications
+21,415,T. King,Conway,College of Education,Elementary Ed,EdD,3.2,Summer 4,90,N,Aug 15,College of Education
+22,867,C. Crema,Little Rock,College of Art and Science,Biology,AS,2.2,Summer 1,87,O,June 1,College of Science
+23,222,D. Abul,Savannah,College of Business,Economics,BA,3.9,Summer 4,90,N,Aug 15,College of Business and IS
+24,333,G. Halk,Atlanta,College of Business,Business Admin,MBA,2.9,Summer 4,90,N,Aug 15,College of Business and IS
+25,431,W. Goos,Savannah,College of Business,Accounting,BA,4.1,Summer 4,90,O,Aug 15,College of Business and IS
+26,421,T. Chen,Conway,College of Education,Elementary Ed,EdD,3.2,Summer 4,91,I,Aug 15,College of Education
+27,524,U. Alramzy,Denver,Cyber College,Applied Sc,PhD,4.0,Fall,92,I,Dec. 15,Computer Communications
+28,689,Y. Morgan,Conway,College of Art and Science,Biology,BS,3.9,Summer 2,87,N,July 4,College of Science
+29,195,D. Red,Seattle,Cyber College,Information Sc,BS,2.1,Fall,90,O,Dec. 15,Computer Communications
+30,703,Y. Bank,Conway,Cyber College,Applied Sc,PhD,3.2,Summer 3,87,O,July 15,Computer Communications
+31,665,Z. Silver,Seattle,College of Education,Elementary Ed,EdD,3.3,Summer 4,91,I,Aug 15,College of Education
+32,739,A. Moon,Little Rock,Cyber College,Computer Sc,BS,3.1,Summer 1,84,N,June 1,Computer Communications
+33,839,Q. Robe,Pine Bluff,Cyber College,Computer Sc,MS,3.8,Summer 1,87,N,June 1,Computer Communications
+34,939,U. Wang,Little Rock,Cyber College,Computer Sc,AS,3.1,Summer 3,84,O,July 15,Computer Communications
+35,458,C. Brown,Denver,Cyber College,Applied Sc,PhD,4.0,Fall,89,O,Dec. 15,Computer Communications
+36,500,K. Bronz,Dallas,College of Art and Science,Chemistry,MS,3.2,Summer 2,88,O,July 4,College of Science
+37,132,A. White,Orlando,Cyber College,Computer Sc,AS,3.9,Summer 4,92,N,Aug 15,Computer Communications
+38,392,A. Jones,Little Rock,Cyber College,Computer Sc,MS,3.2,Spring,87,N,May. 15,Computer Communications
+39,232,K. Blue,Little Rock,College of Art and Science,English,AS,3.1,Summer 4,91,I,Aug 15,College of Science
+40,352,C. Black,Pine Bluff,Cyber College,Applied Sc,PhD,3.8,Summer 4,90,O,Aug 15,Computer Communications
+41,600,C. Jones,Dallas,Cyber College,Information Sc,BS,4.0,Fall,88,O,Dec. 15,Computer Communications
+42,680,Y. Brady,Pine Bluff,Cyber College,Computer Sc,MS,3.8,Spring,90,O,May. 15,Computer Communications
+43,682,Y. Cook,Little Rock,College of Art and Science,Biology,BS,2.2,Summer 1,87,O,June 1,College of Science
+44,634,D. Morty,Seattle,Cyber College,Information Sc,BS,2.1,Fall,88,I,Dec. 15,Computer Communications
+45,452,N. Brady,Little Rock,Cyber College,Applied Sc,PhD,3.2,Summer 4,88,I,Aug 15,Computer Communications
+46,590,X. Cook,Little Rock,College of Art and Science,Biology,AS,2.2,Summer 1,92,N,June 1,College of Science
+47,690,D. Brown,Atlanta,College of Art and Science,Biology,BS,3.9,Summer 2,88,N,July 4,College of Science
+48,175,K. Glob,Dallas,Cyber College,Applied Sc,PhD,3.2,Summer 2,89,N,July 4,Computer Communications
+49,681,Y. Brady,Little Rock,Cyber College,Applied Sc,PhD,3.2,Spring,91,N,May. 15,Computer Communications
+50,185,X. Jones,New York,Cyber College,Information Sc,BS,4.0,Fall,90,N,Dec. 15,Computer Communications
+51,700,A. Boss,Seattle,College of Education,Elementary Ed,MS,3.3,Summer 4,84,I,Aug 15,College of Education
+52,800,K. Queen,Conway,College of Education,Elementary Ed,EdD,3.2,Summer 4,89,O,Aug 15,College of Education
+53,416,T. Gola,Conway,College of Education,Secondary Ed,MS,3.2,Spring,90,N,May. 15,College of Education
+54,420,T. Silver,Seattle,College of Education,Elementary Ed,EdD,3.3,Summer 4,91,N,Aug 15,College of Education
+55,900,B. Gola,Conway,College of Education,Secondary Ed,MS,3.2,Spring,87,I,May. 15,College of Education
+56,955,K. Booth,Atlanta,College of Education,Secondary Ed,MS,3.9,Spring,87,O,May. 15,College of Education
+57,956,C. Jessy,Orlando,Cyber College,Applied Sc,MS,4.0,Fall,89,O,Dec. 15,Computer Communications
+58,150,A. Cool,Orlando,Cyber College,Computer Sc,MS,3.9,Summer 4,86,I,Aug 15,Computer Communications
+59,250,K. Jones,Little Rock,Cyber College,Computer Sc,BS,3.1,Summer 4,86,N,Aug 15,Computer Communications
+60,350,C. Cool,Pine Bluff,Cyber College,Applied Sc,MS,4.0,Summer 4,86,N,Aug 15,Computer Communications
+61,229,M. Katchal,Savannah,College of Business,Economics,BA,3.0,Summer 4,91,N,Aug 15,College of Business and IS
+62,163,H. Poory,Atlanta,College of Business,Business Admin,BA,3.9,Summer 4,87,N,Aug 15,College of Business and IS
+63,439,H. Mishu,Savannah,College of Business,Accounting,BA,2.8,Summer 4,87,O,Aug 15,College of Business and IS
+64,329,G. Kooper,Savannah,College of Business,Accounting,BA,3.0,Summer 4,91,N,Aug 15,College of Business and IS
+65,620,M. Bayraq,Savannah,College of Business,Business Admin,MBA,3.9,Summer 4,87,N,Aug 15,College of Business and IS
+66,337,N. Mikhy,Savannah,College of Business,Business Admin,BA,2.8,Summer 4,87,O,Aug 15,College of Business and IS
+67,650,D. Sorty,Atlanta,College of Art and Science,Biology,BS,3.9,Summer 2,84,N,July 4,College of Science
+68,750,K. Gold,Dallas,Cyber College,Applied Sc,PhD,3.2,Summer 2,84,N,July 4,Computer Communications
+69,850,F. Jones,New York,Cyber College,Information Sc,BS,4.0,Fall,85,I,Dec. 15,Computer Communications
+70,950,D. Golden,Seattle,Cyber College,Information Sc,BS,2.1,Fall,85,I,Dec. 15,Computer Communications
+71,165,A. Silver,Seattle,College of Education,Elementary Ed,MS,3.3,Summer 4,85,O,Aug 15,College of Education
+72,417,T. Dool,Atlanta,College of Art and Science,English,MS,3.9,Summer 2,92,O,July 4,College of Science
+73,418,T. Brown,Denver,Cyber College,Applied Sc,PhD,4.0,Fall,92,O,Dec. 15,Computer Communications
+74,419,T. Red,Seattle,Cyber College,Information Sc,BS,2.1,Fall,92,O,Dec. 15,Computer Communications
+75,215,K. King,Conway,College of Education,Elementary Ed,EdD,3.2,Summer 4,84,N,Aug 15,College of Education
+76,315,M. Gola,Conway,College of Art and Science,English,MS,3.2,Spring,84,N,May. 15,College of Science
+77,255,K. Dool,Atlanta,College of Art and Science,English,MS,3.9,Summer 2,86,N,July 4,College of Science
+78,299,M. Golab,Seatel,College of Art and Science,Chemistry,BS,3.0,Spring,92,N,May. 15,College of Science
+79,199,K. Duell,Atlanta,College of Art and Science,Biology,AS,4.0,Fall,88,I,Dec. 15,College of Science
+80,473,M. Browny,Seattle,Cyber College,Computer Sc,PhD,4.0,Spring,92,I,May. 15,Computer Communications
+81,407,T. Doolak,Seattle,College of Business,Business Admin,MBA,3.1,Summer 1,92,O,June 1,College of Business and IS
+82,205,K. Minges,Conway,College of Education,Elementary Ed,EdD,3.2,Summer 4,84,N,Aug 15,College of Education
+83,138,H. Molar,Conway,College of Art and Science,Biology,MS,3.2,Summer 2,84,N,July 4,College of Science
+84,707,K. Goolar,Atlanta,College of Art and Science,Chemistry,MS,3.9,Summer 2,86,N,July 4,College of Science
+85,873,M. Kochaal,Savannah,College of Art and Science,Chemistry,BS,3.9,Spring,92,N,May. 15,College of Science
+86,449,M. Searsy,Conway,College of Art and Science,Biology,MS,3.2,Summer 2,84,N,July 4,College of Science
+87,246,P. Little,Atlanta,College of Art and Science,Chemistry,MS,3.9,Summer 2,86,N,July 4,College of Science
+88,252,M. Big,Little Rock,College of Art and Science,Chemistry,BS,3.9,Spring,92,O,May. 15,College of Science
+89,610,P. Board,Atlanta,College of Art and Science,Chemistry,AS,4.0,Fall,88,I,Dec. 15,College of Science
+90,547,M. Korp,Conway,College of Art and Science,Biology,MS,3.2,Summer 2,84,N,July 4,College of Science
+91,537,G. Bear,Little Rock,College of Art and Science,Biology,AS,4.0,Fall,88,O,Dec. 15,College of Science
+92,591,Z. Kochaal,Savannah,College of Art and Science,Chemistry,BS,3.9,Spring,92,N,May. 15,College of Science
+93,391,X. Searsy,Conway,College of Art and Science,Biology,MS,3.2,Summer 2,84,N,July 4,College of Science
+94,574,Y. Little,Atlanta,College of Art and Science,Chemistry,MS,3.9,Summer 2,86,N,July 4,College of Science
+95,117,W. Big,Little Rock,College of Art and Science,Chemistry,BS,3.9,Spring,92,O,May. 15,College of Science
+96,612,V. Board,Atlanta,College of Art and Science,Chemistry,AS,4.0,Fall,88,I,Dec. 15,College of Science
+97,428,M. Kartsoo,Conway,College of Art and Science,Biology,MS,3.2,Summer 2,84,N,July 4,College of Science
+98,609,N. Gearsal,Little Rock,College of Art and Science,Biology,BS,4.0,Fall,88,O,Dec. 15,College of Science
+99,615,K. Jiring,Conway,College of Education,Elementary Ed,BA,3.2,Summer 4,84,N,Aug 15,College of Education
+100,715,M. Chendo,Conway,College of Education,Secondary Ed,MS,3.2,Spring,84,N,May. 15,College of Education
+101,855,Z. Megart,Atlanta,College of Education,Secondary Ed,MS,3.9,Summer 2,86,N,July 4,College of Education
+102,699,A. Woo,Seattle,College of Education,Elementary Ed,BA,3.0,Spring,92,N,May. 15,College of Education
+103,572,CC. Artian,Atlanta,College of Art and Science,English,BA,2.9,Summer 4,91,N,Aug 15,College of Science
+104,626,D. Merdoo,Atlanta,College of Art and Science,English,MA,2.8,Summer 4,91,N,Aug 15,College of Science
+105,999,CK. Brown,Denver,Cyber College,Applied Sc,AS,4.0,Summer 1,89,I,June 1,Computer Communications
+106,961,QT. Brady,Pine Bluff,Cyber College,Computer Sc,AS,3.8,Summer 2,87,I,July 4,Computer Communications
+107,962,UL. Jones,Little Rock,Cyber College,Computer Sc,AS,3.1,Summer 2,84,O,July 4,Computer Communications
+108,970,Bf. Brady,Little Rock,Cyber College,Applied Sc,AS,3.2,Summer 1,92,O,June 1,Computer Communications
+109,975,CM. Cook,Little Rock,College of Art and Science,Biology,BS,2.2,Fall,87,O,Dec. 15,College of Science
+110,412,DP. Morty,Atlanta,College of Art and Science,Biology,BS,3.9,Spring,84,O,May. 15,College of Science
+111,971,UK. Yu,Conway,College of Education,Secondary Ed,MS,3.2,Fall,90,O,Dec. 15,College of Education
+112,989,Li. Mooshe,Atlanta,College of Education,Secondary Ed,MS,3.9,Fall,90,N,Dec. 15,College of Education
+113,998,Di. Morgan,Conway,College of Art and Science,Biology,MS,3.9,Spring,87,N,May. 15,College of Science
+114,964,YH. Brady,Conway,Cyber College,Applied Sc,BS,3.2,Summer 1,87,N,June 1,Computer Communications
+115,977,WT. Brady,Conway,Cyber College,Applied Sc,BS,3.2,Summer 2,87,N,July 4,Computer Communications
+116,987,AC. Bank,Conway,Cyber College,Applied Sc,BS,3.2,Summer 2,87,N,July 4,Computer Communications
+117,988,TP. Kim,Conway,College of Education,Elementary Ed,BA,3.2,Summer 1,90,N,June 1,College of Education
+118,288,CY. Crema,Little Rock,College of Art and Science,Biology,BS,2.2,Spring,87,N,May. 15,College of Science
+119,499,D. Abuly,Savannah,College of Business,Economics,BA,3.9,Spring,90,N,May. 15,College of Business and IS
+120,968,G. Halky,Atlanta,College of Business,Business Admin,BA,2.9,Spring,90,N,May. 15,College of Business and IS
+121,967,W.Goast,Savannah,College of Business,Accounting,BA,4.1,Fall,90,N,Dec. 15,College of Business and IS
+122,833,T. Chenty,Conway,College of Education,Elementary Ed,AS,3.2,Summer 1,91,N,June 1,College of Education
+123,124,U. Algy,Denver,Cyber College,Applied Sc,AS,4.0,Spring,92,I,May. 15,Computer Communications
+124,976,YI. Torgan,Conway,College of Art and Science,Biology,AS,3.9,Spring,87,I,May. 15,College of Science
+125,314,D. Reddyg,Seattle,Cyber College,Information Sc,MS,2.1,Fall,90,I,Dec. 15,Computer Communications
+126,785,Y. Bankrpt,Conway,Cyber College,Applied Sc,MS,3.2,Summer 1,87,O,June 1,Computer Communications
+127,413,UI. Wagon,Little Rock,Cyber College,Computer Sc,MS,3.1,Summer 1,84,O,June 1,Computer Communications
+128,898,C. Browner,Denver,Cyber College,Applied Sc,MS,4.0,Spring,89,O,May. 15,Computer Communications
+129,777,F. Anglic,Atlanta,College of Art and Science,Biology,BS,3.9,Spring,90,N,May. 15,College of Science
+130,779,BB. Goofan,Atlanta,College of Art and Science,Chemistry,BS,2.1,Fall,91,N,Dec. 15,College of Science
