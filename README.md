@@ -1,5 +1,5 @@
 # Data_Warehousing
-This is basically an assignment that I had to do for my data warehousing course
+Data warehousing fundamentals demonstrating ETL pipelines, Star/Snowflake schema design, and OLAP queries.
 Following stapes were completed for this assignment - 
 Data Extraction, Data Cleaning, Data Integration
 Selecting a Data warehouse schema and designing a data warehouse for graduates
